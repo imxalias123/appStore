@@ -337,6 +337,7 @@ class AppStore extends Component {
             type="search"
             placeholder="Search"
           />
+
           <img
             className="search-icon"
             src="https://assets.ccbp.in/frontend/react-js/app-store/app-store-search-img.png"
