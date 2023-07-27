@@ -1,0 +1,15 @@
+.tabItem-container {
+  list-style-type: none;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  color: #7b8794;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-right: 8px;
+}
+.active-tab-item {
+  border-bottom: 2px solid #0b69ff;
+  padding-bottom: 10px;
+}

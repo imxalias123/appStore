@@ -1,0 +1,18 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+.img-container {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  height: 140px;
+  width: 120px;
+}
+img {
+  width: 40px;
+}
